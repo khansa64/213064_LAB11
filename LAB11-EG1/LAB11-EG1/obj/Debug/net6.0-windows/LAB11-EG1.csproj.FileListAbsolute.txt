@@ -1,0 +1,3 @@
+C:\Users\213064\source\repos\LAB11-EG1\LAB11-EG1\obj\Debug\net6.0-windows\LAB11-EG1.csproj.AssemblyReference.cache
+C:\Users\213064\source\repos\LAB11-EG1\LAB11-EG1\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\213064\source\repos\LAB11-EG1\LAB11-EG1\obj\Debug\net6.0-windows\LAB11-EG1_MarkupCompile.cache
